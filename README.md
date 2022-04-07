@@ -1,2 +1,2 @@
 # CasinoGame
-Runs a casino simulation in the terminal.
+A simple casino text-based game. Inputs must be exact.
